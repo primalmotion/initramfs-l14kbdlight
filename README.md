@@ -1,5 +1,8 @@
 # initramfs-l14kbdlight
 
+[![AUR
+package](https://img.shields.io/aur/version/initramfs-l14kbdlight)](https://img.shields.io/aur/version/initramfs-l14kbdlight)
+
 This is a initcpio hook that can be used to turn the Librem 14's keyboard
 backlight on during boot. This is usefull when prompted to type the LUKS
 passphrase, for instance.
